@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "QiymAsJe6tc=",
+  "dgSpecHash": "1v5dTc2ySI8=",
   "success": true,
   "projectFilePath": "C:\\Users\\EmirhanAtaman\\RiderProjects\\RemoteDesktop\\Host\\Host.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\EmirhanAtaman\\.nuget\\packages\\inputsimulatorcore\\1.0.5\\inputsimulatorcore.1.0.5.nupkg.sha512",
+    "C:\\Users\\EmirhanAtaman\\.nuget\\packages\\microsoft.win32.systemevents\\9.0.7\\microsoft.win32.systemevents.9.0.7.nupkg.sha512",
+    "C:\\Users\\EmirhanAtaman\\.nuget\\packages\\system.drawing.common\\9.0.7\\system.drawing.common.9.0.7.nupkg.sha512",
+    "C:\\Users\\EmirhanAtaman\\.nuget\\packages\\system.text.json\\9.0.7\\system.text.json.9.0.7.nupkg.sha512",
+    "C:\\Users\\EmirhanAtaman\\.nuget\\packages\\windowsinput\\6.4.1\\windowsinput.6.4.1.nupkg.sha512"
+  ],
   "logs": []
 }
