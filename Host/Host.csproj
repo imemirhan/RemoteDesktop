@@ -7,4 +7,10 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <Folder Include="InputHandler\" />
+      <Folder Include="Network\" />
+      <Folder Include="Screenshots\" />
+    </ItemGroup>
+
 </Project>

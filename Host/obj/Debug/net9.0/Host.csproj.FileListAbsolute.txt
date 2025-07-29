@@ -1,0 +1,15 @@
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\bin\Debug\net9.0\Host.exe
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\bin\Debug\net9.0\Host.deps.json
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\bin\Debug\net9.0\Host.runtimeconfig.json
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\bin\Debug\net9.0\Host.dll
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\bin\Debug\net9.0\Host.pdb
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.AssemblyInfoInputs.cache
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.AssemblyInfo.cs
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.csproj.CoreCompileInputs.cache
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.sourcelink.json
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.dll
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\refint\Host.dll
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.pdb
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\Host.genruntimeconfig.cache
+C:\Users\EmirhanAtaman\RiderProjects\RemoteDesktop\Host\obj\Debug\net9.0\ref\Host.dll
